@@ -1,0 +1,61 @@
+#background{
+background-color: #66c7c2c0;
+}
+
+#header {
+    color: black;
+    text-align: center;
+    margin-top: -27px;
+    /* font-family: -apple-system, BlinkMacSystemFont, sans-serif; */
+    font-family: 'Patrick Hand', cursive;
+    font-size: 55px;
+    letter-spacing: 1.75px;
+}
+
+#subheading {
+    color: black;
+    text-align: center;
+    margin-top: -2%;
+    /* font-family:-apple-system-short-body, BlinkMacSystemFont, sans-serif; */
+    font-family: 'Patrick Hand', cursive;
+    font-size: 15px;
+    letter-spacing: 1.55px;
+}
+
+#vid {
+margin-left: 1.5cm;
+margin-top: 1.2cm;
+
+}
+
+#back {
+    margin-left: 1.2cm;
+    margin-top: 0.7cm;
+    margin-bottom: -20cm;
+    background-color: #66c7c281;
+    border-color: #66c7c281;
+    font-family: 'Patrick Hand', cursive;
+    border-radius: 6px;
+    border-style: solid;
+    color: black;
+    transition: 0.35s;
+    font-size: 17px;
+    letter-spacing: 1.75px;
+    font-weight:bold;
+    }
+    
+    #back:hover {
+        box-shadow: 0 0px 20px #419692    ;
+        cursor: pointer;
+    
+    }
+
+
+.music {
+    margin-left: 20%;
+    margin-right: auto;
+    width: 20cm;
+    margin-top: 1cm;
+    margin-bottom: 1.75cm;
+
+}
